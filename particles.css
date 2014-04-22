@@ -1,0 +1,6 @@
+#game {
+  border: solid 1px black;
+  position: relative;
+  width: 800px;
+  height: 480px;
+}
